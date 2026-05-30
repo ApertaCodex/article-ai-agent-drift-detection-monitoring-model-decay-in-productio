@@ -191,19 +191,3 @@ At Omnithium, we’ve built an agent observability platform that makes drift det
 ---
 
 _Ready to bring production-grade drift monitoring to your AI agents? [Schedule a demo with Omnithium](https://omnithium.ai/demo) and see how we help platform teams keep their agents on course._
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/ai-agent-drift-detection-model-decay).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
